@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Convert the currency
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 119.501 s <<< FAILURE! - in Convert the currency
+The User Converts Euro to CAD(Convert the currency)  Time elapsed: 119.501 s  <<< FAILURE!
+org.junit.ComparisonFailure: Verify the balance!! expected:<[900.0]0 EUR> but was:<[899.3]0 EUR>
+
